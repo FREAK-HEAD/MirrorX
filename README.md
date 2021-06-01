@@ -10,6 +10,9 @@
 
 Here Are Some Things To Get You Started.👇
 
+after this click on the below button 👇👇👇👇
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 
 ## 👉[All The Feature Of This Bot Or What This Bot Can Do For You.](https://github.com/iamLiquidX/MirrorX/wiki/Feature-Or-What-This-Bot-Can-Do)
 
